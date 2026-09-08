@@ -6,7 +6,7 @@
     "categoria": "Jabones",
     "descripcion": "Jabón espumoso para manos, aroma cítrico a limón. 259 ml.",
     "imagen_url": "images/kitchen-lemon.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "categoria": "Jabones",
     "descripcion": "Jabón espumoso para manos, aroma canela y calabaza. 259 ml.",
     "imagen_url": "images/sweet-cinnamon-pumpkin.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "categoria": "Cremas corporales",
     "descripcion": "Crema corporal de hidratación ultra con manteca de karité y ácido hialurónico. 226 g.",
     "imagen_url": "images/noir.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "categoria": "Cremas corporales",
     "descripcion": "Crema corporal de hidratación ultra con manteca de karité y ácido hialurónico. 70 g.",
     "imagen_url": "images/vanilla-romance.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "categoria": "Cremas de manos",
     "descripcion": "Crema de manos con manteca de karité, aroma cereza negra y merlot. 29 ml.",
     "imagen_url": "images/black-cherry-merlot.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "categoria": "Antibacterial",
     "descripcion": "Gel antibacterial PocketBac humectante, aroma champagne toast. 29 ml.",
     "imagen_url": "images/champagne-toast.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "categoria": "Antibacterial",
     "descripcion": "Gel antibacterial de manos PocketBac, aroma a thousand wishes. 29 ml.",
     "imagen_url": "images/a-thousand-wishes.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "categoria": "Antibacterial",
     "descripcion": "Gel antibacterial de manos PocketBac, aroma manzana y calabaza. 29 ml.",
     "imagen_url": "images/pumpkin-apple.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 9,
@@ -78,11 +78,11 @@
     "categoria": "Antibacterial",
     "descripcion": "Gel antibacterial PocketBac humectante, aroma fresh rainfall. 29 ml.",
     "imagen_url": "images/fresh-rainfall.jpg",
-    "cantidad": 5
+    "cantidad": 1
   },
   {
     "id": 10,
-    "nombre": "Apple",
+    "nombre": "Afternoon Apple Picking",
     "precio": 65,
     "categoria": "Antibacterial",
     "descripcion": "Gel antibacterial de manos PocketBac, aroma afternoon apple picking. 29 ml.",
@@ -211,7 +211,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Corrector líquido ligero, cobertura natural. Elige tu tono en el menú.",
     "imagen_url": "images/elf-corrector-medium-beige.jpg",
-    "coming_soon": true,
+    "cantidad": 1,
     "variantes": [
       {
         "nombre": "Light Sand",
@@ -241,7 +241,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Tinta labial de larga duración con acabado natural. Elige tu tono en el menú.",
     "imagen_url": "images/elf-liptint-cherry-cola.jpg",
-    "coming_soon": true,
+    "cantidad": 1,
     "variantes": [
       {
         "nombre": "Cherry Cola",
@@ -279,7 +279,7 @@
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal perfumada Victoria's Secret. Elige tu aroma en el menú.",
     "imagen_url": "images/vs-bodymist-glaze-a-la-mode.jpg",
-    "coming_soon": true,
+    "cantidad": 1,
     "variantes": [
       {
         "nombre": "Bare Vanilla",
@@ -309,7 +309,7 @@
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal con shimmer de diamante, Bath & Body Works. 145 ml.",
     "imagen_url": "images/libre-thousand-wishes-diamond-mist.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 16,
@@ -337,7 +337,7 @@
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal con shimmer de diamante, Bath & Body Works. 145 ml.",
     "imagen_url": "images/libre-touch-of-gold-diamond-mist.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 19,
@@ -345,7 +345,7 @@
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal con shimmer de diamante, Bath & Body Works. 145 ml.",
     "imagen_url": "images/libre-champagne-toast-diamond-mist.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 20,
@@ -373,7 +373,7 @@
     "categoria": "Skincare",
     "descripcion": "Limpiador facial hidratante para piel normal a seca, Toleriane. 50 ml.",
     "imagen_url": "images/libre-laroche-posay-toleriane-cleanser.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 23,
@@ -381,7 +381,7 @@
     "categoria": "Skincare",
     "descripcion": "Crema hidratante triple reparación para piel muy seca. 75 ml.",
     "imagen_url": "images/libre-laroche-posay-lipikar-cream.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 24,
@@ -389,7 +389,7 @@
     "categoria": "Skincare",
     "descripcion": "Limpiador facial coreano suave y cremoso para uso diario.",
     "imagen_url": "images/libre-round-lab-dokdo-cleanser.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 25,
@@ -397,7 +397,7 @@
     "categoria": "Cremas corporales",
     "descripcion": "Loción corporal perfumada Victoria's Secret, aroma bare vanilla. 236 ml.",
     "imagen_url": "images/libre-vs-bare-vanilla-lotion.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 26,
@@ -405,7 +405,7 @@
     "categoria": "Skincare",
     "descripcion": "Bruma facial de agua mineral natural, hidrata y refresca. 50 ml.",
     "imagen_url": "images/libre-evian-facial-spray.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 27,
@@ -413,7 +413,7 @@
     "categoria": "Bodymists",
     "descripcion": "Bruma perfumada para cabello y cuerpo, n°09 Vanilla Bourbon. 75 ml.",
     "imagen_url": "images/libre-mixbar-vanilla-bourbon-mist.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 28,
@@ -421,7 +421,7 @@
     "categoria": "Skincare",
     "descripcion": "Bruma refrescante con protector solar SPF 45, resistente al agua. 40 ml.",
     "imagen_url": "images/libre-sun-bum-mist-spf45.jpg",
-    "coming_soon": true
+    "cantidad": 1
   },
   {
     "id": 29,
@@ -429,6 +429,6 @@
     "categoria": "Skincare",
     "descripcion": "Tónico facial con witch hazel y aloe vera, sin alcohol. 3 fl oz.",
     "imagen_url": "images/libre-thayers-rose-petal-toner.jpg",
-    "coming_soon": true
+    "cantidad": 1
   }
 ]

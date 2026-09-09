@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "nombre": "Bodymist Bath & Body Works",
+    "nombre": "Bath & Body Works",
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal perfumada de larga duración, 236 ml. Elige tu aroma con las flechas. ¡En promoción!",
     "imagen_url": "images/bbw-bodymist-into-the-night.jpg",
@@ -270,7 +270,7 @@
   },
   {
     "id": 14,
-    "nombre": "Bodymist Victoria's Secret",
+    "nombre": "Victoria's Secret",
     "categoria": "Bodymists",
     "descripcion": "Bruma corporal perfumada Victoria's Secret. Elige tu aroma en el menú.",
     "imagen_url": "images/vs-bodymist-glaze-a-la-mode.jpg",

@@ -1,0 +1,631 @@
+[
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Bodymist",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma corporal perfumada de larga duración. 236 ml.",
+  "imagen_url": "images/bbw-bodymist-into-the-night.jpg",
+  "precio": 299,
+  "promo": true,
+  "variantes": [
+   {
+    "nombre": "Into the Night",
+    "imagen_url": "images/bbw-bodymist-into-the-night.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Platinum",
+    "imagen_url": "images/bbw-bodymist-platinum.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "You're the One",
+    "imagen_url": "images/bbw-bodymist-youre-the-one.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Sweetest Song",
+    "imagen_url": "images/bbw-bodymist-sweetest-song.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Touch of Gold",
+    "imagen_url": "images/bbw-bodymist-touch-of-gold.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Japanese Cherry Blossom",
+    "imagen_url": "images/bbw-bodymist-japanese-cherry-blossom.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Champagne Toast",
+    "imagen_url": "images/bbw-bodymist-champagne-toast.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Gingham",
+    "imagen_url": "images/bbw-bodymist-gingham.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Covered in Roses",
+    "imagen_url": "images/bbw-bodymist-covered-in-roses.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Gingham Gorgeous",
+    "imagen_url": "images/bbw-bodymist-gingham-gorgeous.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Dreaming of Rio",
+    "imagen_url": "images/bbw-bodymist-dreaming-of-rio.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "A Thousand Wishes",
+    "imagen_url": "images/bbw-bodymist-a-thousand-wishes.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Warm Vanilla Sugar",
+    "imagen_url": "images/bbw-bodymist-warm-vanilla-sugar.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Forever Cherry Blossom",
+    "imagen_url": "images/bbw-bodymist-forever-cherry-blossom.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Sweet Cinnamon Pumpkin",
+    "imagen_url": "images/bbw-bodymist-sweet-cinnamon-pumpkin.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "In the Stars",
+    "imagen_url": "images/bbw-bodymist-in-the-stars.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Almond Croissant",
+    "imagen_url": "images/bbw-bodymist-almond-croissant.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Caramel Vanilla",
+    "imagen_url": "images/bbw-bodymist-caramel-vanilla.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Pink Matcha Latte",
+    "imagen_url": "images/bbw-bodymist-pink-matcha-latte.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Very Violet",
+    "imagen_url": "images/bbw-bodymist-very-violet.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Pink Macaroon",
+    "imagen_url": "images/bbw-bodymist-pink-macaroon.jpg",
+    "cantidad": 0
+   }
+  ],
+  "id": 1
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Fine Fragrance Mist",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma perfumada fina para cuerpo y cabello. 75 ml.",
+  "imagen_url": "images/ffm75-champagne-toast.jpg",
+  "precio": 200,
+  "variantes": [
+   {
+    "nombre": "Gingham Gorgeous",
+    "imagen_url": "images/ffm75-gingham-gorgeous.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "In the Stars",
+    "imagen_url": "images/ffm75-in-the-stars.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Champagne Toast",
+    "imagen_url": "images/ffm75-champagne-toast.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Japanese Cherry Blossom",
+    "imagen_url": "images/ffm75-japanese-cherry-blossom.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Into the Night",
+    "imagen_url": "images/ffm75-into-the-night.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Gingham Fresh",
+    "imagen_url": "images/ffm75-gingham-fresh.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Peach Blossom & Nectar (Vera Bradley)",
+    "imagen_url": "images/ffm75-peach-blossom-nectar.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "A Thousand Wishes",
+    "imagen_url": "images/ffm75-a-thousand-wishes.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Vanilla Romance",
+    "imagen_url": "images/ffm75-vanilla-romance.jpg",
+    "cantidad": 0
+   }
+  ],
+  "id": 2
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Heirloom Rose Perfume Mist",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma perfumada con aceite esencial, colección Aromatherapy. 173 ml.",
+  "imagen_url": "images/libre-heirloom-rose-perfume-mist.jpg",
+  "precio": 299,
+  "cantidad": 0,
+  "id": 3
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Crema corporal 70 g",
+  "categoria": "Cremas corporales",
+  "descripcion": "Crema corporal de hidratación ultra con manteca de karité y ácido hialurónico. 70 g.",
+  "imagen_url": "images/vanilla-romance.jpg",
+  "precio": 200,
+  "variantes": [
+   {
+    "nombre": "Vanilla Romance",
+    "imagen_url": "images/vanilla-romance.jpg",
+    "cantidad": 1
+   },
+   {
+    "nombre": "Champagne Toast",
+    "imagen_url": "images/body-cream-champagne-toast.jpg",
+    "cantidad": 1
+   }
+  ],
+  "id": 4
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Noir, The Men's Shop",
+  "categoria": "Cremas corporales",
+  "descripcion": "Crema corporal de hidratación ultra con manteca de karité y ácido hialurónico. 226 g.",
+  "imagen_url": "images/noir.jpg",
+  "precio": 420,
+  "cantidad": 1,
+  "id": 5
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Crema de manos Black Cherry Merlot",
+  "categoria": "Cremas de manos",
+  "descripcion": "Crema de manos con manteca de karité, aroma cereza negra y merlot. 29 ml.",
+  "imagen_url": "images/black-cherry-merlot.jpg",
+  "precio": 200,
+  "cantidad": 1,
+  "id": 6
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Jabón espumoso para manos",
+  "categoria": "Jabones",
+  "descripcion": "Jabón espumoso para manos. 259 ml.",
+  "imagen_url": "images/sweet-cinnamon-pumpkin.jpg",
+  "precio": 250,
+  "variantes": [
+   {
+    "nombre": "Kitchen Lemon",
+    "imagen_url": "images/kitchen-lemon.jpg",
+    "cantidad": 0
+   },
+   {
+    "nombre": "Sweet Cinnamon Pumpkin",
+    "imagen_url": "images/sweet-cinnamon-pumpkin.jpg",
+    "cantidad": 0
+   }
+  ],
+  "id": 7
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Gel antibacterial PocketBac",
+  "categoria": "Antibacterial",
+  "descripcion": "Gel antibacterial de manos humectante. 29 ml.",
+  "imagen_url": "images/champagne-toast.jpg",
+  "precio": 65,
+  "variantes": [
+   {
+    "nombre": "Champagne Toast",
+    "imagen_url": "images/champagne-toast.jpg",
+    "cantidad": 1
+   },
+   {
+    "nombre": "A Thousand Wishes",
+    "imagen_url": "images/a-thousand-wishes.jpg",
+    "cantidad": 1
+   },
+   {
+    "nombre": "Pumpkin Apple",
+    "imagen_url": "images/pumpkin-apple.jpg",
+    "cantidad": 1
+   },
+   {
+    "nombre": "Fresh Rainfall",
+    "imagen_url": "images/fresh-rainfall.jpg",
+    "cantidad": 1
+   },
+   {
+    "nombre": "Afternoon Apple Picking",
+    "cantidad": 1
+   }
+  ],
+  "id": 8
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Lip gloss Strawberry Pound Cake",
+  "categoria": "Maquillaje",
+  "descripcion": "Brillo labial Bath & Body Works, aroma strawberry pound cake. 14 ml.",
+  "imagen_url": "images/lipgloss-strawberry-pound-cake.jpg",
+  "precio": 200,
+  "cantidad": 1,
+  "id": 9
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Lip gloss Japanese Cherry Blossom",
+  "categoria": "Maquillaje",
+  "descripcion": "Brillo labial Bath & Body Works, aroma japanese cherry blossom. 3.1 ml.",
+  "imagen_url": "images/lipgloss-japanese-cherry-blossom.jpg",
+  "precio": 200,
+  "cantidad": 1,
+  "id": 10
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Room spray Rose Water & Ivy",
+  "categoria": "Ambiente",
+  "descripcion": "Aromatizante concentrado para ambiente, aroma rose water & ivy. 42.5 g.",
+  "imagen_url": "images/room-spray-rose-water-ivy.jpg",
+  "precio": 250,
+  "cantidad": 0,
+  "id": 11
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Bodymist Diamond Shimmer",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma corporal con shimmer de diamante. 145 ml.",
+  "imagen_url": "images/libre-champagne-toast-diamond-mist.jpg",
+  "coming_soon": true,
+  "variantes": [
+   {
+    "nombre": "Champagne Toast",
+    "imagen_url": "images/libre-champagne-toast-diamond-mist.jpg"
+   },
+   {
+    "nombre": "Touch of Gold",
+    "imagen_url": "images/libre-touch-of-gold-diamond-mist.jpg"
+   },
+   {
+    "nombre": "A Thousand Wishes",
+    "imagen_url": "images/libre-thousand-wishes-diamond-mist.jpg"
+   }
+  ],
+  "id": 12
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Graphite Body Spray, The Men's Shop",
+  "categoria": "Bodymists",
+  "descripcion": "Body spray para hombre, aroma Graphite. 104 g.",
+  "imagen_url": "images/libre-graphite-body-spray.jpg",
+  "coming_soon": true,
+  "id": 13
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Graphite Cologne Mist, The Men's Shop",
+  "categoria": "Bodymists",
+  "descripcion": "Colonia en bruma para hombre, aroma Graphite. 236 ml.",
+  "imagen_url": "images/libre-graphite-cologne-mist.jpg",
+  "coming_soon": true,
+  "id": 14
+ },
+ {
+  "marca": "Bath & Body Works",
+  "nombre": "Mahogany Teakwood Body Spray, The Men's Shop",
+  "categoria": "Bodymists",
+  "descripcion": "Body spray para hombre, aroma Mahogany Teakwood. 104 g.",
+  "imagen_url": "images/libre-mahogany-teakwood-body-spray.jpg",
+  "coming_soon": true,
+  "id": 15
+ },
+ {
+  "marca": "Victoria's Secret",
+  "nombre": "Bodymist",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma corporal Victoria's Secret.",
+  "imagen_url": "images/vs-bodymist-glaze-a-la-mode.jpg",
+  "precio": 299,
+  "variantes": [
+   {
+    "nombre": "Bare Vanilla",
+    "imagen_url": "images/vs-bodymist-bare-vanilla.jpg"
+   },
+   {
+    "nombre": "Bare Vanilla (sin shimmer)",
+    "imagen_url": "images/vs-bodymist-bare-vanilla-sin-shimmer.jpg"
+   },
+   {
+    "nombre": "Glaze À La Mode",
+    "imagen_url": "images/vs-bodymist-glaze-a-la-mode.jpg"
+   },
+   {
+    "nombre": "Pure Seduction",
+    "imagen_url": "images/vs-bodymist-pure-seduction.jpg"
+   },
+   {
+    "nombre": "Velvet Petals",
+    "imagen_url": "images/vs-bodymist-velvet-petals.jpg"
+   }
+  ],
+  "id": 16
+ },
+ {
+  "marca": "Victoria's Secret",
+  "nombre": "Bare Vanilla Fragrance Lotion",
+  "categoria": "Cremas corporales",
+  "descripcion": "Loción corporal perfumada Victoria's Secret, aroma bare vanilla. 236 ml.",
+  "imagen_url": "images/libre-vs-bare-vanilla-lotion.jpg",
+  "coming_soon": true,
+  "id": 17
+ },
+ {
+  "marca": "e.l.f.",
+  "nombre": "Corrector",
+  "categoria": "Maquillaje",
+  "descripcion": "Corrector líquido ligero, cobertura natural. Elige tu tono en el menú.",
+  "imagen_url": "images/elf-corrector-medium-beige.jpg",
+  "precio": 220,
+  "variantes": [
+   {
+    "nombre": "Light Sand",
+    "imagen_url": "images/elf-corrector-light-sand.jpg"
+   },
+   {
+    "nombre": "Light Peach",
+    "imagen_url": "images/elf-corrector-light-peach.jpg"
+   },
+   {
+    "nombre": "Medium Sand",
+    "imagen_url": "images/elf-corrector-medium-sand.jpg"
+   },
+   {
+    "nombre": "Medium Beige",
+    "imagen_url": "images/elf-corrector-medium-beige.jpg"
+   },
+   {
+    "nombre": "Medium Neutral",
+    "imagen_url": "images/elf-corrector-medium-neutral.jpg"
+   }
+  ],
+  "id": 18
+ },
+ {
+  "marca": "e.l.f.",
+  "nombre": "Lip Tint",
+  "categoria": "Maquillaje",
+  "descripcion": "Tinta labial de larga duración con acabado natural. Elige tu tono en el menú.",
+  "imagen_url": "images/elf-liptint-cherry-cola.jpg",
+  "precio": 215,
+  "variantes": [
+   {
+    "nombre": "Cherry Cola",
+    "imagen_url": "images/elf-liptint-cherry-cola.jpg"
+   },
+   {
+    "nombre": "Left on Red",
+    "imagen_url": "images/elf-liptint-left-on-red.jpg"
+   },
+   {
+    "nombre": "Mauve Actually",
+    "imagen_url": "images/elf-liptint-mauve-actually.jpg"
+   },
+   {
+    "nombre": "Orange Crush",
+    "imagen_url": "images/elf-liptint-orange-crush.jpg"
+   },
+   {
+    "nombre": "Pink Positive",
+    "imagen_url": "images/elf-liptint-pink-positive.jpg"
+   },
+   {
+    "nombre": "Plums Up",
+    "imagen_url": "images/elf-liptint-plums-up.jpg"
+   },
+   {
+    "nombre": "So Petal",
+    "imagen_url": "images/elf-liptint-so-petal.jpg"
+   }
+  ],
+  "id": 19
+ },
+ {
+  "marca": "La Roche-Posay",
+  "nombre": "Toleriane Cleanser",
+  "categoria": "Skincare",
+  "descripcion": "Limpiador facial hidratante para piel normal a seca, Toleriane. 50 ml.",
+  "imagen_url": "images/libre-laroche-posay-toleriane-cleanser.jpg",
+  "precio": 199,
+  "id": 20,
+  "cantidad": 1
+ },
+ {
+  "marca": "La Roche-Posay",
+  "nombre": "Lipikar AP+M",
+  "categoria": "Skincare",
+  "descripcion": "Crema hidratante triple reparación para piel muy seca. 75 ml.",
+  "imagen_url": "images/libre-laroche-posay-lipikar-cream.jpg",
+  "precio": 279,
+  "id": 21,
+  "cantidad": 1
+ },
+ {
+  "marca": "Round Lab",
+  "nombre": "1025 Dokdo Cleanser",
+  "categoria": "Skincare",
+  "descripcion": "Limpiador facial coreano suave y cremoso para uso diario.",
+  "imagen_url": "images/libre-round-lab-dokdo-cleanser.jpg",
+  "precio": 199,
+  "id": 22
+ },
+ {
+  "marca": "Evian",
+  "nombre": "Facial Spray",
+  "categoria": "Skincare",
+  "descripcion": "Bruma facial de agua mineral natural, hidrata y refresca. 50 ml.",
+  "imagen_url": "images/libre-evian-facial-spray.jpg",
+  "precio": 155,
+  "id": 23
+ },
+ {
+  "marca": "Sun Bum",
+  "nombre": "Mist SPF 45",
+  "categoria": "Skincare",
+  "descripcion": "Bruma refrescante con protector solar SPF 45, resistente al agua. 40 ml.",
+  "imagen_url": "images/libre-sun-bum-mist-spf45.jpg",
+  "precio": 119,
+  "id": 24
+ },
+ {
+  "marca": "Thayers",
+  "nombre": "Rose Petal Toner",
+  "categoria": "Skincare",
+  "descripcion": "Tónico facial con witch hazel y aloe vera, sin alcohol. 3 fl oz.",
+  "imagen_url": "images/libre-thayers-rose-petal-toner.jpg",
+  "precio": 99,
+  "id": 25
+ },
+ {
+  "marca": "Mix:Bar",
+  "nombre": "Vanilla Bourbon Mist",
+  "categoria": "Bodymists",
+  "descripcion": "Bruma perfumada para cabello y cuerpo, n°09 Vanilla Bourbon. 75 ml.",
+  "imagen_url": "images/libre-mixbar-vanilla-bourbon-mist.jpg",
+  "precio": 119,
+  "id": 26,
+  "cantidad": 1
+ },
+ {
+  "marca": "Peelerz",
+  "nombre": "Dulces 85 g",
+  "categoria": "Dulces",
+  "descripcion": "Dulces Peelerz. 85 g.",
+  "imagen_url": "images/peelerz-uva.jpg",
+  "precio": 55,
+  "variantes": [
+   {
+    "nombre": "Uva",
+    "imagen_url": "images/peelerz-uva.jpg"
+   },
+   {
+    "nombre": "Plátano",
+    "imagen_url": "images/peelerz-platano.jpg"
+   },
+   {
+    "nombre": "Mango con chile",
+    "imagen_url": "images/peelerz-mango-chile.jpg"
+   },
+   {
+    "nombre": "Manzana verde",
+    "imagen_url": "images/peelerz-manzana-verde.jpg"
+   },
+   {
+    "nombre": "Lychee",
+    "imagen_url": "images/peelerz-lychee.jpg"
+   },
+   {
+    "nombre": "Piña",
+    "imagen_url": "images/peelerz-pina.jpg"
+   }
+  ],
+  "id": 27
+ },
+ {
+  "marca": "Dove",
+  "nombre": "Ice Cream Parlor Gel de baño",
+  "categoria": "Gel de baño",
+  "descripcion": "Gel de baño Dove Ice Cream Parlor, edición limitada. 591 ml.",
+  "imagen_url": "images/dove-ice-cream-strawberry-swirl.jpg",
+  "precio": 319,
+  "variantes": [
+   {
+    "nombre": "Strawberry Swirl",
+    "imagen_url": "images/dove-ice-cream-strawberry-swirl.jpg"
+   },
+   {
+    "nombre": "Raspberry Sorbet",
+    "imagen_url": "images/dove-ice-cream-raspberry-sorbet.jpg"
+   }
+  ],
+  "id": 28
+ },
+ {
+  "marca": "Starbucks",
+  "nombre": "Refreshers Concentrate Strawberry Açaí",
+  "categoria": "Bebidas",
+  "descripcion": "Concentrado Starbucks Refreshers sabor fresa y açaí. 946 ml (32 fl oz).",
+  "imagen_url": "images/starbucks-refreshers-strawberry-acai.jpg",
+  "precio": 269,
+  "variantes": [],
+  "id": 29
+ },
+ {
+  "marca": "Oreo",
+  "nombre": "Galletas",
+  "categoria": "Galletas",
+  "descripcion": "Galletas sándwich de chocolate Oreo.",
+  "imagen_url": "images/oreo-reeses.jpg",
+  "precio": 199,
+  "variantes": [
+   {
+    "nombre": "Reese's",
+    "imagen_url": "images/oreo-reeses.jpg"
+   },
+   {
+    "nombre": "Birthday Cake",
+    "imagen_url": "images/oreo-birthday-cake.jpg"
+   }
+  ],
+  "id": 30
+ },
+ {
+  "marca": "Nerds",
+  "nombre": "Gummy Clusters Spooky",
+  "categoria": "Dulces",
+  "descripcion": "Dulces Nerds Gummy Clusters edición Spooky: crujientes y ácidos por fuera, suaves y gomosos por dentro. 226 g.",
+  "imagen_url": "images/nerds-gummy-clusters-spooky.jpg",
+  "precio": 99,
+  "variantes": [],
+  "id": 31
+ }
+]
